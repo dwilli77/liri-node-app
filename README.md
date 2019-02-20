@@ -1,5 +1,12 @@
 # liri-node-app
 
+liri-node-app is a command line based program for gathering information on songs and concerts via the Spotify API
+
+This project makes use of the following technologies:
+ * Moment.js
+ * Spotify API
+ * Node.js
+
 Liri is a bot who provides information on songs, movies, and concerts
 
 She takes the following commands:
